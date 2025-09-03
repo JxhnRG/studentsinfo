@@ -3,6 +3,6 @@
     "edad": 21,
     "carrera": "Ingeniria de sistemas",
     "semestre": 6,
-    "gustos": ["Futbol", "Series", "Videojuegos","Comida picante"],
+    "gustos": ["Culiar", "Series", "Videojuegos","Comida picante"],
     "noGustos": ["Despertarse temprano", "Largas horas de estudio", "Ruido fuerte", "Tareas largas"]
 }
